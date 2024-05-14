@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **pradeepa45/pradeepa45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/pradeepaseelam"><img src="https://api.daily.dev/devcards/v2/hlfch4xTdInu8LuhxqM7R.png?type=default&r=0f8" width="356" alt="Pradeepa Seelam's Dev Card"/></a>
